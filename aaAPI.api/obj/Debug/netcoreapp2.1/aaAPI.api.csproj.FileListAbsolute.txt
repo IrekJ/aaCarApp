@@ -1,0 +1,14 @@
+C:\Data\_VSCode\aaTestApp\aaAPI.api\bin\Debug\netcoreapp2.1\aaAPI.api.deps.json
+C:\Data\_VSCode\aaTestApp\aaAPI.api\bin\Debug\netcoreapp2.1\aaAPI.api.runtimeconfig.json
+C:\Data\_VSCode\aaTestApp\aaAPI.api\bin\Debug\netcoreapp2.1\aaAPI.api.runtimeconfig.dev.json
+C:\Data\_VSCode\aaTestApp\aaAPI.api\bin\Debug\netcoreapp2.1\aaAPI.api.dll
+C:\Data\_VSCode\aaTestApp\aaAPI.api\bin\Debug\netcoreapp2.1\aaAPI.api.pdb
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.csprojAssemblyReference.cache
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.csproj.CoreCompileInputs.cache
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.RazorAssemblyInfo.cache
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.RazorAssemblyInfo.cs
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.AssemblyInfoInputs.cache
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.AssemblyInfo.cs
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.RazorTargetAssemblyInfo.cache
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.dll
+C:\Data\_VSCode\aaTestApp\aaAPI.api\obj\Debug\netcoreapp2.1\aaAPI.api.pdb
